@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🚀 AgentOps
+#  AgentOps
 
-### ⚡ Agentic AI Operations Platform
+###  Agentic AI Operations Platform
 
 </div>
 
