@@ -1,4 +1,10 @@
-# AgentOps
+<div align="center">
+
+# 🚀 AgentOps
+
+### ⚡ Agentic AI Operations Platform
+
+</div>
 
 ## Overview
 NextGen AI Agent is a modern AI-powered assistant designed to help developers build, test, and deploy intelligent applications.
