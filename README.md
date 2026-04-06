@@ -35,7 +35,7 @@ def run_agent(task: str) -> str:
 - [x] Docker setup
 
 ###  Phase 2 – Intelligence Layer
-- [ ] Integrate LLM (OpenAI / Local)
+- [x] Integrate LLM (OpenAI / Local)
 - [ ] Prompt engineering system
 - [ ] Multi-step reasoning
 
